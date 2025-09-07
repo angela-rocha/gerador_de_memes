@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerador de Memes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🤣 Gerador de Memes 🤣</h1>
+
+  <div class="controls">
+    <input type="file" id="upload" accept="image/*">
+    <input type="text" id="topText" placeholder="Texto superior">
+    <input type="text" id="bottomText" placeholder="Texto inferior">
+    <button id="generate">Gerar Meme</button>
+    <button id="random">Usar Imagem Aleatória</button>
+    <button id="download">Baixar Meme</button>
+  </div>
+
+  <div class="meme" id="meme">
+    <img id="memeImage" src="" alt="">
+    <div class="text top" id="memeTop"></div>
+    <div class="text bottom" id="memeBottom"></div>
+  </div>
+
+  <!-- Biblioteca para capturar a div -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="script.js"></script>
+
+  <!-- Footer -->
+   <footer>
+    <p>&copy; 2025, ❤️ Angela Rocha ❤️</p>
+   </footer>
+</body>
+</html>
