@@ -23,13 +23,6 @@ Permite que o usuário faça upload de imagens ou use imagens aleatórias, adici
 
 ---
 
-## 📂 Estrutura do Projeto
-
-meme-generator/
-│── index.html
-│── style.css
-│── script.js
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**  
