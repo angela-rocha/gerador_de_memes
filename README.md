@@ -3,7 +3,7 @@ Um divertido projeto desenvolvido em HTML, CSS e JavaScript puro.
 
 <img width="1024" height="720" alt="Gerador de Memes - Google Chrome 06_09_2025 20_56_35" src="https://github.com/user-attachments/assets/436def43-ce1c-4b87-9f11-fadef4b9665d" />
 
-# [Acesse e divirta-se](https://angela-silva.github.io/gerador_de_memes/)
+# [Acesse e divirta-se](https://angela-rocha.github.io/gerador_de_memes/)
 
 
 # 🤣 Gerador de Memes 🤣
