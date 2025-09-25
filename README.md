@@ -6,7 +6,7 @@ Um divertido projeto desenvolvido em HTML, CSS e JavaScript puro.
 # [Acesse e divirta-se](https://angela-rocha.github.io/gerador_de_memes/)
 
 
-# 🤣 Gerador de Memes 🤣
+# Gerador de Memes
 
 Este é um projeto divertido de **Gerador de Memes**, desenvolvido com **HTML, CSS e JavaScript puro**.  
 Permite que o usuário faça upload de imagens ou use imagens aleatórias, adicione texto superior e inferior, e baixe o meme em PNG.
